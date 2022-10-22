@@ -1,0 +1,11 @@
+installer flask,pip
+créer votre code flask dans le fichier welcome.py
+créer le fichier Dockerfile 
+créer le fichier requirements.txt pour les dépendances de votre application à installer 
+Build l'image avec un tag 
+créer un container Docker avec l'image construite 
+vérifier votre code
+inspecter votre container 
+affiicher le port 
+
+
