@@ -7,5 +7,7 @@ créer un container Docker avec l'image construite
 vérifier votre code
 inspecter votre container 
 affiicher le port 
+arretrer le conteneur 
+vérifier que la page web n'affiche plus votre code 
 
 
